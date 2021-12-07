@@ -5,6 +5,10 @@ this actually seems like a really good client just from what i can see, but im n
 
 want buildable? go fuck yourself.
 
+![image](https://user-images.githubusercontent.com/57580886/144975397-3b4a9053-495f-498a-a00d-d4271ffc185c.png)
+
+looks like it was an intentional leak? according to perry its ratted, so i wouldnt trust it. but oh well run it if you want, i couldnt give a flying fuck
+
 ---
 
 She said, "Can we hangout again?"
