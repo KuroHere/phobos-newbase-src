@@ -1,4 +1,10 @@
 # phobos-newbase-src
+
+
+<div align="center"><img src="https://media.discordapp.net/attachments/915961225962209321/917658865410125844/peter-griffin-running-away-meme-template-jiyak.jpg" /></div>
+
+---
+
 idk at this point
 
 this actually seems like a really good client just from what i can see, but im not gonna risk running it. you have fun with that though.
