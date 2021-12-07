@@ -24,3 +24,8 @@ Nutted and changed my opinion about it
 ---
 
 no hate to the phobos boys, but its 11pm at night and i was bored and i saw this on my github feed so here you skids go. may the skids prosper
+
+
+![image](https://user-images.githubusercontent.com/57580886/144975768-ce0cd6f6-474b-42e9-a9f7-eda29e1d15db.png)
+
+this is funny
